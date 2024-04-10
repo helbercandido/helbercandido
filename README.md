@@ -25,6 +25,16 @@ Eu sou Helber Candido, sou programador Front End, atualmente estou aprendendo e 
 </p>
 
 <br>
+
+<p align="left">
+<br>
+Languages and Tools:  
+</p>
+<code> <img height="20" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"data-png="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"> </code>
+<code> <img height="20" src="https://cdn-icons-png.flaticon.com/512/8744/8744719.png"> </code>
+<code> <img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"> </code>
+
+<br>
 <br>
 
 [![Helber stats](https://github-readme-stats.vercel.app/api?username=helbercandido)](https://github.com/anuraghazra/github-readme-stats)
