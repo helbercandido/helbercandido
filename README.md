@@ -42,6 +42,18 @@ Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helbercandido)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+
 <!--
 **helbercandido/helbercandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
