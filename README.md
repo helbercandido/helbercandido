@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?helbercandido=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/helbercandido=iuricode&color=006bed)
 
 Olá tudo bem?! 🙂👋
 
