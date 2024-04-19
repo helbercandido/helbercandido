@@ -57,8 +57,14 @@ Eu sou Helber Candido, sou programador Front End, atualmente estou aprendendo e 
 <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react-logo"/>
 -->
 
-<h1>Connect With me:</h3>
+## Onde me encontrar
 
+[![Linkedin](https://img.shields.io/badge/-helbercandido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helbercandido)](https://www.linkedin.com/in/helbercandido)
+[![Gmail Badge](https://img.shields.io/badge/-helber.santos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:helber.santos@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/helbercandido)
+
+<!--
+<h1>Connect With me:</h3>
 <p>
 <a href="https://www.instagram.com/euhelbercandido">
   <img align="left" alt="ícone do istagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
@@ -67,8 +73,7 @@ Eu sou Helber Candido, sou programador Front End, atualmente estou aprendendo e 
   <img align="left" alt="ícone linkedim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg">
 </a>
 </p>
-
-<br>
+-->
 
 <p align="left">
 
